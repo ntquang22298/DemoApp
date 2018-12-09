@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # BlockchainAppDemo
 A Dapp using truffle, solidity and angular 
@@ -18,3 +19,6 @@ Open git bash
 Run command: truffle migrate --reset --network ganache
 Run command: cd transfer
 Run command: ng serve --o
+=======
+# DemoBlockchainApp
+>>>>>>> 3fd90b41023155a3cea8cca83feebdaa8763efaf
