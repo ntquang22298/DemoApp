@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # BlockchainAppDemo
 A Dapp using truffle, solidity and angular 
@@ -22,3 +23,7 @@ Run command: ng serve --o
 =======
 # DemoBlockchainApp
 >>>>>>> 3fd90b41023155a3cea8cca83feebdaa8763efaf
+=======
+# DemoApp
+A Dapp using solidity and angular
+>>>>>>> 989992cba7ddf094f5f280d7299739ba0a322653
